@@ -1,5 +1,7 @@
 # Using EnOS Device SDK for MQTT for Java
 
+> Thanks for your visit! This repository has been archived, to access our latest EnOS device SDK, go to https://github.com/EnvisionIot/enos-iot-device-sdk.
+
 This article instructs how to prepare your development environment to use the *EnOS Device SDK for MQTT for Java*.
 
 Preparing development environment
